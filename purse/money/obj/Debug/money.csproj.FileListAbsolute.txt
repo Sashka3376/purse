@@ -1,0 +1,6 @@
+D:\Desktop\purse\purse\purse\money\bin\Debug\money.exe.config
+D:\Desktop\purse\purse\purse\money\bin\Debug\money.exe
+D:\Desktop\purse\purse\purse\money\bin\Debug\money.pdb
+D:\Desktop\purse\purse\purse\money\obj\Debug\money.csprojAssemblyReference.cache
+D:\Desktop\purse\purse\purse\money\obj\Debug\money.exe
+D:\Desktop\purse\purse\purse\money\obj\Debug\money.pdb

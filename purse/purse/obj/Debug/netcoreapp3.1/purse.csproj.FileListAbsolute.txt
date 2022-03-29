@@ -1,0 +1,11 @@
+D:\Desktop\purse\purse\purse\purse\bin\Debug\netcoreapp3.1\purse.exe
+D:\Desktop\purse\purse\purse\purse\bin\Debug\netcoreapp3.1\purse.deps.json
+D:\Desktop\purse\purse\purse\purse\bin\Debug\netcoreapp3.1\purse.runtimeconfig.json
+D:\Desktop\purse\purse\purse\purse\bin\Debug\netcoreapp3.1\purse.runtimeconfig.dev.json
+D:\Desktop\purse\purse\purse\purse\bin\Debug\netcoreapp3.1\purse.dll
+D:\Desktop\purse\purse\purse\purse\bin\Debug\netcoreapp3.1\purse.pdb
+D:\Desktop\purse\purse\purse\purse\obj\Debug\netcoreapp3.1\purse.csprojAssemblyReference.cache
+D:\Desktop\purse\purse\purse\purse\obj\Debug\netcoreapp3.1\purse.AssemblyInfoInputs.cache
+D:\Desktop\purse\purse\purse\purse\obj\Debug\netcoreapp3.1\purse.AssemblyInfo.cs
+D:\Desktop\purse\purse\purse\purse\obj\Debug\netcoreapp3.1\purse.dll
+D:\Desktop\purse\purse\purse\purse\obj\Debug\netcoreapp3.1\purse.pdb

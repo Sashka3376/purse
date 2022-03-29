@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\purse\\purse\\purse\\purse\\purse.csproj": {}
+    "D:\\Desktop\\purse\\purse\\purse\\purse\\purse.csproj": {}
   },
   "projects": {
-    "D:\\purse\\purse\\purse\\purse\\purse.csproj": {
+    "D:\\Desktop\\purse\\purse\\purse\\purse\\purse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\purse\\purse\\purse\\purse\\purse.csproj",
+        "projectUniqueName": "D:\\Desktop\\purse\\purse\\purse\\purse\\purse.csproj",
         "projectName": "purse",
-        "projectPath": "D:\\purse\\purse\\purse\\purse\\purse.csproj",
-        "packagesPath": "C:\\Users\\trach\\.nuget\\packages\\",
-        "outputPath": "D:\\purse\\purse\\purse\\purse\\obj\\",
+        "projectPath": "D:\\Desktop\\purse\\purse\\purse\\purse\\purse.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\purse\\purse\\purse\\purse\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\trach\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.120\\RuntimeIdentifierGraph.json"
         }
       }
     }
